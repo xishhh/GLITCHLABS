@@ -1,6 +1,6 @@
-# BugBattle
+# GLITCHLABS
 
-BugBattle is a multiplayer debugging game where players in the same lobby race to fix a bug in a shared code snippet.
+GLITCHLABS is a multiplayer debugging game where players in the same lobby race to fix a bug in a shared code snippet.
 
 ## Problem Statement
 
